@@ -1,0 +1,29 @@
+body{
+	margin-bottom:10px;
+	background-color:#f8f8f8;
+}
+.center{
+	text-align:center;
+}
+
+.message{
+	color:#F00;
+	font-weight:bold;
+	font-size:16px;
+}
+.container{
+	margin-top:10px;
+}
+
+.pendekin{
+	border:1px solid red;
+	box-shadow:2px 0px 10px red, -2px 0px 10px red;
+}
+
+a{
+	color:white;
+}
+a:hover{
+	color:white;
+	text-decoration:none;
+}
