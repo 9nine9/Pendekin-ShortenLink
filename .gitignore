@@ -4,6 +4,3 @@ js/
 
 #database
 *.zip
-
-#seo_url
-.htaccess
